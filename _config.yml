@@ -1,3 +1,7 @@
-theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-description: My internship with Scarlet Data Studio on the Transit Health Project.
+title: "Transit Health Internship"
+description: "My internship with Scarlet Data Studio on the Transit Health Project"
+image:
+  feature: header.jpg
+  credit: Anthony Fomin
+  creditlink: https://unsplash.com/photos/sJboCyWJkPg
