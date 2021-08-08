@@ -1,3 +1,3 @@
 theme: minimal-mistakes-jekyll
-title: Transit Health Internship
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 description: My internship with Scarlet Data Studio on the Transit Health Project.
