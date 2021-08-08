@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+### How was Chicago, a city with nearly 3 million people and one of the best public transportation systems in the country, impacted by covid-19?
 
-You can use the [editor on GitHub](https://github.com/MariaGarciaCS/blog-article-transithealth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Chicago is America’s 3rd largest city, and it is often recognized for its public transportation system. A person in the suburbs can easily find a CTA train stop and take a 30 minute trip to the loop where they would be met with varying options such as rentable bikes, public buses,  rideshare and taxi services. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So how did this city’s transportation system hold up against a global pandemic? Were neighborhoods impacted disproportionately? And how has transportation in the city changed over time? Lucky, [TransitHealth](https://scarletstudio.github.io/transithealth/) by [Scarlet Data Studio](https://scarletstudio.github.io/) can help answer some of these questions. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaGarciaCS/blog-article-transithealth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Transit Health is a web application that gathers and displays data sets from the [Chicago Health Atlas](https://chicagohealthatlas.org/) and the [Chicago Data Portal](https://data.cityofchicago.org/) that help us understand the relationships between transportation, Chicago and the impact of covid. I had the pleasure of working as a software engineer intern on Transit Health and looking at how the transportation accessibility was affected for people with disabilities. 
